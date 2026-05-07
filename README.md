@@ -25,3 +25,5 @@ O sistema simula um monitoramento de tendências de publicação utilizado por a
  ├── monitoramento.db
  ├── package.json
  └── README.md
+
+
